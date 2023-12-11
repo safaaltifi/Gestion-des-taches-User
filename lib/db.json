@@ -1,0 +1,103 @@
+{
+  "traveaux": [
+    {
+      "id": 2,
+      "titre": "Travail 2",
+      "desc": "Description du travaidxwcl 2",
+      "type": "Type 222",
+      "position": "cité",
+      "idUtil": 99,
+      "remarque": {
+        "desc": "Remarque 2",
+        "photos": [
+          "photo3.jpg",
+          "photo4.jpg",
+          "blob:http://localhost:54239/9ea7b176-49b3-48b5-ad74-f2ff2ccefae5",
+          "blob:http://localhost:54239/f5a1ff5c-c065-4a0f-99ae-afb0a4f0c3fa",
+          "blob:http://localhost:59407/fec0c7a1-eabf-4de6-bd1d-569b53085606",
+          "blob:http://localhost:61874/cac454ab-b080-4051-909f-a4db1d1bca21"
+        ],
+        "position": "Position de la remarque 223337"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "Nom": "NomUtilisateur2",
+      "prenom": "PrenomUtilisateur2",
+      "identifiant": "utilisateur2",
+      "mdp": "motdepasse2"
+    },
+    {
+      "id": 3,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "hbj",
+      "mdp": "hbj"
+    },
+    {
+      "id": 4,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "nhjh",
+      "mdp": "hj"
+    },
+    {
+      "id": 5,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "safa",
+      "mdp": "safa"
+    },
+    {
+      "id": 99,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "safa2",
+      "mdp": "safa2"
+    },
+    {
+      "id": 100,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "askim",
+      "mdp": "askim"
+    },
+    {
+      "id": 101,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "askima",
+      "mdp": "askima"
+    },
+    {
+      "id": 102,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "askima1",
+      "mdp": "askima"
+    },
+    {
+      "id": 103,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "ghaith",
+      "mdp": "ghaith"
+    },
+    {
+      "id": 104,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "safa22",
+      "mdp": "hgnb"
+    },
+    {
+      "id": 105,
+      "Nom": "NewUser",
+      "prenom": "NewUser",
+      "identifiant": "ahmed",
+      "mdp": "ahmed"
+    }
+  ]
+}
